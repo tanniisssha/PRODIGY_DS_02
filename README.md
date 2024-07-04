@@ -1,3 +1,6 @@
+
+#PRODIGY_DS_02
+
 Task - 02
 
 Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
@@ -13,3 +16,5 @@ The data has been split into two groups:
 2.test set (test.csv)
 
 For data cleaning and exploratory data analysis (EDA), we typically use the train.csv file because it contains both the features and the target variable (Survived). The test.csv file is usually used for predictions.
+
+#ProdigyInfoTech
